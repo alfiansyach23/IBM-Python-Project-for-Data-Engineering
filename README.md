@@ -26,6 +26,6 @@ Run queries on the database table. Write a function load_to_db(), execute a give
 ### Task 7:
 Verify that the log entries have been completed at all stages by checking the contents of the file code_log.txt.
 
-After completing the task, you will get a certificate of completion, and this is the certificate I earned:
+## After completing the task, you will get a certificate of completion, and this is the certificate I earned:
 
 ![IBM Python Project for Data Engineering_page-0001](https://github.com/alfiansyach23/IBM-Python-Project-for-Data-Engineering/assets/127624933/028887cb-fef7-4bfb-88ee-6b782ebb73dd)
