@@ -1,0 +1,101 @@
+,Name,MC_USD_Billion,MC_GBP_Billion,MC_EUR_Billion,MC_INR_Billion
+0,JPMorgan Chase,503.5,402.8,468.26,41765.33
+1,Bank of America,260.66,208.53,242.41,21621.75
+2,ICBC,238.75,191.0,222.04,19804.31
+3,Agricultural Bank of China,187.8,150.24,174.65,15578.01
+4,Wells Fargo,173.03,138.42,160.92,14352.84
+5,Bank of China,157.64,126.11,146.61,13076.24
+6,China Construction Bank,150.56,120.45,140.02,12488.95
+7,HSBC,149.36,119.49,138.9,12389.41
+8,Morgan Stanley,137.88,110.3,128.23,11437.15
+9,Royal Bank Of Canada,136.53,109.22,126.97,11325.16
+10,HDFC Bank,133.0,106.4,123.69,11032.35
+11,Commonwealth Bank,123.88,99.1,115.21,10275.85
+12,Goldman Sachs,123.2,98.56,114.58,10219.44
+13,Charles Schwab,113.67,90.94,105.71,9428.93
+14,Mitsubishi UFJ Financial,113.41,90.73,105.47,9407.36
+15,CM Bank,112.49,89.99,104.62,9331.05
+16,Toronto Dominion Bank,105.4,84.32,98.02,8742.93
+17,Citigroup,102.57,82.06,95.39,8508.18
+18,Al Rajhi Bank,96.15,76.92,89.42,7975.64
+19,UBS,89.48,71.58,83.22,7422.37
+20,ICICI Bank,87.33,69.86,81.22,7244.02
+21,State Bank of India,79.94,63.95,74.34,6631.02
+22,Bank Central Asia,76.9,61.52,71.52,6378.86
+23,Sumitomo Mitsui Financial Group,68.39,54.71,63.6,5672.95
+24,Sberbank,68.11,54.49,63.34,5649.72
+25,Itaú Unibanco,67.31,53.85,62.6,5583.36
+26,BNP Paribas,66.77,53.42,62.1,5538.57
+27,Bank of Montreal,66.54,53.23,61.88,5519.49
+28,The Saudi National Bank,66.28,53.02,61.64,5497.93
+29,National Australia Bank,65.8,52.64,61.19,5458.11
+30,Santander,62.86,50.29,58.46,5214.24
+31,U.S. Bancorp,62.84,50.27,58.44,5212.58
+32,DBS Group,62.27,49.82,57.91,5165.3
+33,Postal Savings Bank of China,61.62,49.3,57.31,5111.38
+34,PNC Financial Services,58.46,46.77,54.37,4849.26
+35,Banco Bilbao Vizcaya Argentaria,58.19,46.55,54.12,4826.86
+36,Bank Rakyat Indonesia,58.03,46.42,53.97,4813.59
+37,Scotiabank,57.11,45.69,53.11,4737.27
+38,Intesa Sanpaolo,55.46,44.37,51.58,4600.41
+39,Westpac Banking,54.81,43.85,50.97,4546.49
+40,ANZ Bank,54.13,43.3,50.34,4490.08
+41,Bank of Communications,53.85,43.08,50.08,4466.86
+42,UniCredit,53.72,42.98,49.96,4456.07
+43,Capital One,50.94,40.75,47.37,4225.47
+44,Nu Holdings,49.16,39.33,45.72,4077.82
+45,Truist Financial,46.8,37.44,43.52,3882.06
+46,Macquarie,46.44,37.15,43.19,3852.2
+47,Industrial Bank,46.35,37.08,43.11,3844.73
+48,Mizuho Financial Group,45.75,36.6,42.55,3794.96
+49,ING,44.09,35.27,41.0,3657.27
+50,First Abu Dhabi Bank,43.31,34.65,40.28,3592.56
+51,OCBC Bank,43.15,34.52,40.13,3579.29
+52,Banco Santander Brasil,42.26,33.81,39.3,3505.47
+53,CIBC,42.15,33.72,39.2,3496.34
+54,Bank Mandiri,42.05,33.64,39.11,3488.05
+55,Kotak Mahindra Bank,41.88,33.5,38.95,3473.95
+56,Bank of New York Mellon,41.36,33.09,38.46,3430.81
+57,CITIC Securities,40.82,32.66,37.96,3386.02
+58,Axis Bank,40.73,32.58,37.88,3378.55
+59,Nordea Bank,40.34,32.27,37.52,3346.2
+60,Crédit Agricole,39.67,31.74,36.89,3290.63
+61,Kuwait Finance House,37.29,29.83,34.68,3093.21
+62,QNB (Qatar National Bank),37.17,29.74,34.57,3083.25
+63,CITIC Bank,36.33,29.06,33.79,3013.57
+64,Japan Post Bank,35.59,28.47,33.1,2952.19
+65,UOB,35.12,28.1,32.66,2913.2
+66,Lloyds Banking Group,33.85,27.08,31.48,2807.86
+67,Banco do Brasil,33.27,26.62,30.94,2759.75
+68,Invest Bank,32.24,25.79,29.98,2674.31
+69,CaixaBank,31.55,25.24,29.34,2617.07
+70,Maybank,29.6,23.68,27.53,2455.32
+71,Skandinaviska Enskilda Banken,29.32,23.46,27.27,2432.09
+72,Banco Bradesco,28.57,22.86,26.57,2369.88
+73,Shanghai Pudong Development Bank,28.4,22.72,26.41,2355.78
+74,QNB Finansbank,27.88,22.3,25.93,2312.65
+75,Barclays,27.78,22.22,25.84,2304.35
+76,Fubon Financial,26.77,21.42,24.9,2220.57
+77,Ping An Bank,26.09,20.87,24.26,2164.17
+78,Deutsche Bank,26.0,20.8,24.18,2156.7
+79,Bank of China (Hong Kong),25.82,20.66,24.01,2141.77
+80,National Bank of Canada,25.45,20.36,23.67,2111.08
+81,National Bank of Kuwait,25.12,20.1,23.36,2083.7
+82,Riyad Bank,24.29,19.43,22.59,2014.86
+83,Danske Bank,24.06,19.25,22.38,1995.78
+84,China Everbright Bank,24.05,19.24,22.37,1994.95
+85,NatWest Group,23.47,18.78,21.83,1946.84
+86,ORIX,23.4,18.72,21.76,1941.03
+87,Alinma Bank,23.08,18.46,21.46,1914.49
+88,Swedbank,22.84,18.27,21.24,1894.58
+89,Fifth Third Bank,22.65,18.12,21.06,1878.82
+90,M&T Bank,22.54,18.03,20.96,1869.69
+91,Svenska Handelsbanken,22.45,17.96,20.88,1862.23
+92,China Minsheng Bank,22.22,17.78,20.66,1843.15
+93,State Street Corporation,21.57,17.26,20.06,1789.23
+94,First Citizens BancShares,21.28,17.02,19.79,1765.18
+95,The Saudi British Bank,20.72,16.58,19.27,1718.72
+96,Cathay Financial Holding,20.47,16.38,19.04,1697.99
+97,Hang Seng Bank,19.8,15.84,18.41,1642.41
+98,KB Financial Group,19.5,15.6,18.14,1617.52
+99,Standard Chartered,19.32,15.46,17.97,1602.59
